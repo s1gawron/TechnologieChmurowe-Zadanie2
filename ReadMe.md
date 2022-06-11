@@ -4,5 +4,6 @@
 <p>Poprawione zostalo mapowanie portu dla nginx w pliku docker-compose.dev.yml.</p>
 <p>Logika kliencka i serwerowa zostala zmodyfikowana i dopasowana do tresci zadania.</p>
 
-#Architektura
+# Architektura
+
 ![architecture](arch.png)
